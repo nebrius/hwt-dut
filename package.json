@@ -1,0 +1,14 @@
+{
+  "name": "hwt-dut",
+  "version": "1.0.0",
+  "description": "The main server that runs on each device under test and manages testing. Part of the HwT suite.",
+  "main": "index.js",
+  "bin": {
+    "hwt-dut": "./bin/hwt_dut.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Hughes <bryan@theoreticalideations.com>",
+  "license": "MIT"
+}
